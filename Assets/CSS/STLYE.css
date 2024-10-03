@@ -1,0 +1,107 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(230, 229, 229)
+}
+
+.header {
+    background-color: rgb(248, 248, 248);
+    /* box-shadow: 10px 10px 20px 10px solid red; */
+}
+
+.headerund {
+    background-color: rgb(230, 229, 229);
+}
+
+.headercont {
+    font-family: 'Inclusive Sans', sans-serif;
+    /* font-family: 'Roboto', sans-serif; */
+    color: rgb(27, 27, 27);
+}
+
+.herosec {
+    color: black;
+    font-size: 85px;
+    font-family: fantasy;
+    text-align: center;
+}
+
+.herosecbtn {
+    font-family: sans-serif;
+    width: 80px;
+    background-color: black
+}
+
+.sec2img1 {
+    width: 620px;
+    height: 700px;
+    background-size: 100% 100%;
+    background-image: url(../images/secimg2.webp);
+    position: relative;
+}
+
+.sec2img2 {
+    width: 620px;
+    height: 700px;
+    background-size: 100% 100%;
+    background-image: url(../images/sec2img2.webp);
+    position: relative;
+}
+
+.sec2cant {
+    position: absolute;
+    bottom: 40px;
+    left: 30px;
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+.sec3img1 {
+    width: 620px;
+    height: 700px;
+    background-size: 100% 100%;
+    background-image: url(../images/sec3img1.webp);
+    position: relative;
+}
+
+.sec3img2 {
+    width: 620px;
+    height: 700px;
+    background-size: 100% 100%;
+    background-image: url(../images/sec3img2.webp);
+    position: relative;
+}
+
+.sec5img1 {
+    width: 620px;
+    height: 700px;
+    background-size: 100% 100%;
+    background-image: url(../images/sec5img1.webp);
+    position: relative;
+}
+
+.sec5img2 {
+    width: 620px;
+    height: 700px;
+    background-size: 100% 100%;
+    background-image: url(../images/sec5img2.webp);
+    position: relative;
+}
+
+.sec7 {
+    color: black;
+    font-size: 70px;
+    font-family: fantasy;
+    text-align: center;
+}
+
+.FOOTER {
+    background-color: rgb(9, 9, 9);
+}
+
